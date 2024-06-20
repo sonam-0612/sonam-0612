@@ -1,5 +1,5 @@
 - 👋 Hi, I’m sonam
-- 👀 I’m interested in web development
+- 👀 I’m interested in frontend devlopment
 - 🌱 I’m currently learning javascript and react
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me https://www.linkedin.com/in/sonam-kumari-b04069286/
